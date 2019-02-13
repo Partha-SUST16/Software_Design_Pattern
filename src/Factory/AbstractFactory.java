@@ -10,5 +10,5 @@ package Factory;
  * @author USER
  */
 public abstract  class AbstractFactory {
-    abstract iButton getButton(String device);
+    abstract iButton getDevice(String device);
 }

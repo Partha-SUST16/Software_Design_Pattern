@@ -8,11 +8,12 @@ package Factory;
 /**
  *
  * @author USER
+ * 
  */
 public class Factory extends AbstractFactory{
 
     @Override
-    iButton getButton(String device) {
+    iButton getDevice(String device) {
         if(device.equalsIgnoreCase("Android"))
             return new androidFactory();
         if(device.equalsIgnoreCase("IOS"))

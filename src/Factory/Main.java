@@ -8,14 +8,15 @@ package Factory;
 /**
  *
  * @author USER
+ * 
  */
 public class Main {
     public static void main(String[] args) {
         Factory fact  =new Factory();
         
-        iButton ib = fact.getButton("IOS");
+        iButton ib = fact.getDevice("IOS");
         ib.createButton();
-        ib =  fact.getButton("Android");
+        ib =  fact.getDevice("Android");
         ib.createButton();
     }
     
