@@ -3,16 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/Java/S_Architecture/src/SOLID/iSort.java</file>
-            <file>file:/F:/Java/S_Architecture/src/SOLID/Main.java</file>
-            <file>file:/F:/Java/S_Architecture/src/SOLID/Test.java</file>
-            <file>file:/F:/Java/S_Architecture/src/observer/myTopic.java</file>
-            <file>file:/F:/Java/S_Architecture/src/SOLID/MergeSort.java</file>
-            <file>file:/F:/Java/S_Architecture/src/SOLID/BubbleSort.java</file>
-            <file>file:/F:/Java/S_Architecture/src/observer/observer.java</file>
-            <file>file:/F:/Java/S_Architecture/src/observer/subject.java</file>
-            <file>file:/F:/Java/S_Architecture/src/observer/myTopicSubscriber.java</file>
-            <file>file:/F:/Java/S_Architecture/src/observer/Main.java</file>
+            <file>file:/F:/Java/Software_Design_Pattern/src/Factory/Factory.java</file>
+            <file>file:/F:/Java/Software_Design_Pattern/src/Factory/iButton.java</file>
+            <file>file:/F:/Java/Software_Design_Pattern/src/Factory/AbstractFactory.java</file>
+            <file>file:/F:/Java/Software_Design_Pattern/src/Behaviour/Singletonobj.java</file>
+            <file>file:/F:/Java/Software_Design_Pattern/src/Factory/Main.java</file>
+            <file>file:/F:/Java/Software_Design_Pattern/src/Factory/iosFactory.java</file>
+            <file>file:/F:/Java/Software_Design_Pattern/src/Factory/androidFactory.java</file>
         </group>
     </open-files>
 </project-private>
